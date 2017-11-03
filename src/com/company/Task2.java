@@ -1,7 +1,7 @@
 package com.company;
 
 public class Task2 {
-    public static void main(String a[]){   // Вариант 1
+    public static void main(String args[]){   // Вариант 1
         String binary = "0001";
         String binary1= "0010";
         String binary2= "0101";
